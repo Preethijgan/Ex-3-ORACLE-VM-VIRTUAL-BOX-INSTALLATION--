@@ -105,6 +105,7 @@ For Windows:
 # .sh method
 # Program:
 <img width="736" height="371" alt="image" src="https://github.com/user-attachments/assets/63e9bf30-3733-471c-8cff-d5fc3dbae1ed" />
+
 # Expected Output:
 <img width="725" height="422" alt="image" src="https://github.com/user-attachments/assets/d10b9af6-198f-49f8-9a72-bbf0b842dc91" />
 
@@ -118,7 +119,8 @@ For Windows:
 <img width="1037" height="575" alt="image" src="https://github.com/user-attachments/assets/7ade3719-39c2-4f16-a040-eedc32cb9338" />
 
 # Result:
-     Thus,installation Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a  single host machine is done successfully.
+
+Thus,installation Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a  single host machine is done successfully.
 
 
 
