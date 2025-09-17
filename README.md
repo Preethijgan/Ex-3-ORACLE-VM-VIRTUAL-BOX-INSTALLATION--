@@ -117,6 +117,12 @@ For Windows:
 # Terminal Method:
 <img width="1037" height="575" alt="image" src="https://github.com/user-attachments/assets/7ade3719-39c2-4f16-a040-eedc32cb9338" />
 
+# Result:
+     Thus,installation Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a  single host machine is done successfully.
+
+
+
+
 
 
 
